@@ -9,6 +9,7 @@
     
     <version name="0.1d" url="http://openacs.org/repository/download/apm/dotlrn-curriculum-0.1d.apm">
         <owner url="mailto:ola@polyxena.net">Ola Hansson</owner>
+        <release-date>2003-11-10</release-date>
         <vendor url="http://www.polyxena.net">Polyxena</vendor>
 
         <provides url="dotlrn-curriculum" version="0.1d"/>
