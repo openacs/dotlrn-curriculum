@@ -7,7 +7,7 @@
     <initial-install-p>f</initial-install-p>
     <singleton-p>t</singleton-p>
     
-    <version name="2.2.0a1" url="http://openacs.org/repository/download/apm/dotlrn-curriculum-2.1.3b1">
+    <version name="2.2.0a1" url="http://openacs.org/repository/download/apm/dotlrn-curriculum-2.2.0a1">
         <owner url="mailto:ola@polyxena.net">Ola Hansson</owner>
         <release-date>2005-11-01</release-date>
         <vendor url="http://www.polyxena.net">Polyxena</vendor>
