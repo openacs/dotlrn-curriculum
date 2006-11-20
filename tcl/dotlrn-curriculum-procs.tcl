@@ -14,7 +14,7 @@ namespace eval dotlrn_curriculum {
     } {
         get the pretty name
     } {
-        return "Curriculum"
+        return "#curriculum.pretty_name#"
     }
 
     ad_proc -public applet_key {} {
