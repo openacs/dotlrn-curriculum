@@ -48,13 +48,13 @@ namespace eval dotlrn_curriculum {
     } {
         remove the applet
     } {
-        ad_return_complaint 1 "[applet_key] remove_applet not implimented!"
+        ad_return_complaint 1 "[applet_key] remove_applet not implemented!"
     }
 
     ad_proc -public add_applet_to_community {
         community_id
     } {
-        Add the curriculum applet to a specifc community
+        Add the curriculum applet to a specific community
     } {
         set portal_id [dotlrn_community::get_portal_id \
                            -community_id $community_id
@@ -102,13 +102,13 @@ namespace eval dotlrn_curriculum {
     } {
         Drops the curriculum applet from the given community
     } {
-        ad_return_complaint 1 "[applet_key] remove_applet_from_community not implimented!"
+        ad_return_complaint 1 "[applet_key] remove_applet_from_community not implemented!"
     }
 
     ad_proc -public add_user {
         user_id
     } {
-        For one time user-specfic init
+        For one time user-specific init
     } {
         # noop
     }
